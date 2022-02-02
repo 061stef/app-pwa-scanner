@@ -1,0 +1,5 @@
+.container{ width: 95%; max-width: 400px; margin: 20vh auto; }
+.container img{ margin-bottom: 20px; width: 100%; }
+.form{ display: grid; grid-template-columns: 1fr; row-gap: 20px; }
+.form label{ display: grid; grid-template-columns: 1fr; row-gap: 5px; }
+.form button{ width: 100%; max-width: 200px; margin: 0 auto; border: none; border-radius: 6px; padding: 6px; transition: all .3s; }
