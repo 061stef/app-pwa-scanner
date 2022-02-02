@@ -1,5 +1,5 @@
 {
-  "name": "app-pwa-scanner",
+  "name": "next-pwa-demo",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "11.0.0",
+    "next": "11.1.2",
     "next-pwa": "^5.4.4",
     "react": "17.0.2",
     "react-dom": "17.0.2"
